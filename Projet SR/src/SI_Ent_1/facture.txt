@@ -1,0 +1,10 @@
+Code:1  Nom:Adole     Montant:500.0
+Code:2  Nom:prod2     Montant:300.0
+Code:3  Nom:prod3     Montant:400.0
+Code:4  Nom:prod4     Montant:500.0
+Code:5  Nom:prod5     Montant:60.05
+Code:6  Nom:prod6     Montant:700.0
+Code:7  Nom:prod7     Montant:800.0
+Code:8  Nom:prod8     Montant:900.0
+Code:9  Nom:prod9     Montant:1000.
+Code:10 Nom:prod10    Montant:10.01
